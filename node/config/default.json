@@ -1,6 +1,6 @@
 {
-    "appSecret": "",
-    "pageAccessToken": "",
-    "validationToken": "",
-    "serverURL": ""
+    "appSecret": "0d190a05ef7a29725e6fbe92a16b5279",
+    "pageAccessToken": "EAACAu1iP7sgBAFgGsDpeNTgmFDcFHzwTto8BTx1QRxaZBMB5CtzTym3smZAfXugYa9iJf1NvXXWBw7ETrZAjE9ZAL8DiQ5xBW7BvOmHZCdJCdUFgKZBoSUiby6PuXWzxzhAhl0sbq9OZBvxZBUAkZAUREWl0vDOKBS741YjIUY7If9AZDZD",
+    "validationToken": "verify2230",
+    "serverURL": "https://bots.api.ai/facebook/d985949a-fee3-42fb-83b3-055cb76310f0/webhook"
 }
